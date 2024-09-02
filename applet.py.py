@@ -1,2 +1,2 @@
-print(welcome to streamlit web)
+print("welcome to streamlit web")
  
